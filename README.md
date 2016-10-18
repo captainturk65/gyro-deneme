@@ -1,0 +1,2 @@
+# gyro-deneme
+gyro denemesi
